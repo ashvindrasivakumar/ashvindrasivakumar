@@ -8,3 +8,5 @@ Currently learning:
 - Writing clean and understandable code
 
 This GitHub contains my learning progress and projects.
+Currently solving Data Structures problems daily and building ML projects.
+
